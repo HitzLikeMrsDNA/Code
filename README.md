@@ -1,2 +1,2 @@
 # Code
-Lerning Codeing
+Learning Coding
